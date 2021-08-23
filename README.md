@@ -1,5 +1,12 @@
 # CrossClip
+------------------------------------
 
+Fork of: https://github.com/yue/crossclip
+
+In the works: Sync on LAN P2P instead of Broadcast.
+
+
+------
 Sync clipboard across macOS/Linux/Windows on LAN.
 
 Written in Node.js, with native UI powered by [the Yue library](https://github.com/yue/yue).
