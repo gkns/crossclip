@@ -1,4 +1,4 @@
-# CrossClip
+# CrossClip-p2p
 ------------------------------------
 
 Fork of: https://github.com/yue/crossclip
