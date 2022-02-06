@@ -1,9 +1,11 @@
 # CrossClip-p2p
 ------------------------------------
 
+**WIP**
+
 Fork of: https://github.com/yue/crossclip
 
-In the works: Sync on LAN P2P instead of Broadcast.
+Use websockets instead of broadcast.
 
 
 ------
